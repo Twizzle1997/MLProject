@@ -1,11 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">Attrape moi si tu peux</h3>
-
-  <p align="center">
-    La société "Little Sister" est une entreprise spécialisée dans le secteur de la vidéosurveillance. Pour leur prochain produit, elle souhaite développer un algorithme d'intelligence artificielle afin de détecter les différents éléments présents sur une image. Elle vous sollicite afin de l'aider à réaliser le système.
-  </p>
+  <h3 align="center">MLProject</h3>
 </p>
 
 <!-- TABLE OF CONTENTS -->
