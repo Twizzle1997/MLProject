@@ -39,7 +39,7 @@ To get a local copy up and running follow these simple steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-* Run in terminal ```python notebook.py {kernel} {stride} {epochs}``` 
+* Run in terminal ```python notebook.py {kernel} {stride} {epochs}```  
 Example :
     ```sh
     python notebook.py 3 2 5
