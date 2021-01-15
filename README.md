@@ -44,8 +44,7 @@ To get a local copy up and running follow these simple steps.
 ## Usage
 
 Run [notebook.ipynb](https://github.com/Twizzle1997/MLProject/blob/main/notebook.ipyn)  
-Run in terminal ```sh
-mlflow ui```
+Run in terminal ```mlflow ui```  
 Launch [http://localhost:5000/](http://localhost:5000/)
 
 ## Parameters
