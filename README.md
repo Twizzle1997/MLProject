@@ -30,7 +30,8 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
 
-    ```git clone https://github.com/Twizzle1997/MLProject
+    ```sh
+    git clone https://github.com/Twizzle1997/MLProject
     ```
 
 2. Create a conda virtual environment with
@@ -43,9 +44,14 @@ To get a local copy up and running follow these simple steps.
 ## Usage
 
 Run [notebook.ipynb](https://github.com/Twizzle1997/MLProject/blob/main/notebook.ipyn)  
-Run ```sh
-mlflow ui``` in the terminal  
-Go to [http://localhost:5000/](http://localhost:5000/)
+Run in terminal ```sh
+mlflow ui```
+Launch [http://localhost:5000/](http://localhost:5000/)
+
+## Parameters
+```kernel``` (int) Kernel size  
+```stride``` (int) Strides size  
+```epochs``` (int) Number of epoch  
 
 
 ## Sources
