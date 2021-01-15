@@ -30,8 +30,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
 
-    ```sh
-    git clone https://github.com/Twizzle1997/MLProject
+    ```git clone https://github.com/Twizzle1997/MLProject
     ```
 
 2. Create a conda virtual environment with
