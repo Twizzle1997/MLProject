@@ -1,0 +1,11 @@
+name: tutorial
+
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    parameters:
+      kernel: {type: int, default: 3}
+      stride: {type: int, default: 1}
+      epochs: {type: int, default: 15}
+    command: "python notebook.py {kernel} {stride} {epochs}"

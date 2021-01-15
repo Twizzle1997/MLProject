@@ -60,7 +60,7 @@ def test_model(model, image, directory):
     test_image = plt.imread(image)
 
     resized_image = resize(test_image, (32, 32, 3))
-    plt.imshow(resized_image)
+    # plt.imshow(resized_image)
     predictions = model.predict(np.array([resized_image]))
     predictions
     x = predictions
